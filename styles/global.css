@@ -6,3 +6,8 @@ body {
 .container {
     bottom: 23;
 }
+
+.master {
+    border: none;
+    margin: 0;
+}
