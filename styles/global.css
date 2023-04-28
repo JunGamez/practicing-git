@@ -6,8 +6,15 @@ body {
 .container {
     bottom: 23;
 }
+<<<<<<< HEAD
 
 .master {
     border: none;
     margin: 0;
+=======
+body {
+    background: #f1b4b4;
+    color: #eee;
+    color: #FFFF;
+>>>>>>> development
 }
